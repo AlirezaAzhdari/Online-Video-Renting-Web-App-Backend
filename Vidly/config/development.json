@@ -1,0 +1,5 @@
+{
+  "name": "Vidly- development",
+  "mail": { "host": "dev-mail-erver" },
+  "jwtPrivateKey": "adad2141"
+}
